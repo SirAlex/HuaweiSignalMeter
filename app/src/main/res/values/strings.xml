@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Huawei Hilink Signal Meter</string>
+    <string name="title_activity_maps">Hilink RSSI</string>
+    <string name="rssi_label">RSSI</string>
+    <string name="cellid_key">c8a55a67-b7be-48f3-bac6-31a4ffee4dc9</string>
+</resources>
